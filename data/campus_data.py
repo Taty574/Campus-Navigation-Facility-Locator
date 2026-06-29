@@ -1,3 +1,6 @@
+# NOTE: weights are estimates from initial sketch.
+# To be replaced with measured distances (Google Maps) by Friday — see roadmap.
+
 from data_structures.graph import Graph
 
 def build_campus_graph():
